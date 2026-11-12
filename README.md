@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+
+I'm constantly learning and uploading what I learn to my [Blog]([https://블로그주소](https://mango-devlog.tistory.com/)) and [GitHub](https://github.com/JeongMango).
 <!--
 **JeongMango/JeongMango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
